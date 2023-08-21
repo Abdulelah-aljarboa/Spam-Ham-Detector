@@ -6,6 +6,8 @@ the model used was Long short-term memory (LSTM) which is a recurrent neural net
 aimed to deal with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity
 to gap length is its advantage over other RNNs, hidden Markov models, and other sequence learning methods.
 
+in the notebook, you can find all the findings and graphs
+
 ## Libraries:
 - **Tensorflow:** is an open-source machine-learning framework that allows us to build machine
 learning, deep learning, and neural networks.
@@ -25,4 +27,5 @@ the models.
 - **Keras:** is a library that gives us the ability to create deep learning models.
 - **Matplotlib:** is a comprehensive library for creating static, animated, and interactive visualizations
 in Python. We used it to make the data visualization.
-- **Seaborn:** is a Python data visualization library based on matplotlib it is used to create
+- **Seaborn:** is a Python data visualization library based on matplotlib it is used to create static,
+animated, and interactive visualizations. We used it to make the data visualization.
