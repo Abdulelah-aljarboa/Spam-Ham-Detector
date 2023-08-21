@@ -6,7 +6,7 @@ the model used was Long short-term memory (LSTM) which is a recurrent neural net
 aimed to deal with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity
 to gap length is its advantage over other RNNs, hidden Markov models, and other sequence learning methods.
 
-##Libraries:
+## Libraries:
 Tensorflow: is an open-source machine-learning framework that allows us to build machine
 learning, deep learning, and neural networks.
 Nltk: an open-source library for natural language processing that provides an easy-to-use
