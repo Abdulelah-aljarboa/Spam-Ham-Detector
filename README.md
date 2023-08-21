@@ -29,3 +29,6 @@ the models.
 in Python. We used it to make the data visualization.
 - **Seaborn:** is a Python data visualization library based on matplotlib it is used to create static,
 animated, and interactive visualizations. We used it to make the data visualization.
+
+## Data Set
+The data set for the project was taken from this Kaggle link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
